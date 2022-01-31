@@ -1,0 +1,34 @@
+name: microtrait
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - hmmer>=3.1b2
+  - prodigal>=2.6.3
+  - r-base
+  - r-devtools
+  - bioconductor-biostrings
+  - r-adephylo
+  - r-ape
+  - r-data.table
+  - r-doParallel
+  - r-dplyr
+  - r-foreach
+  - r-fs
+  - r-futile.logger
+  - r-piggyback
+  - r-readr
+  - r-stringr
+  - r-tibble
+  - r-tictoc
+  - r-tidyr
+  - r-magrittr
+  - r-r.utils
+  - r-assertthat
+  - r-checkmate
+  - r-nlme
+
+# library(devtools)
+# devtools::install_github("ukaraoz/microtrait")
+# prep.hmmmodels()

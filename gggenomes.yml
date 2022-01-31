@@ -1,0 +1,15 @@
+name: r-gggenomes
+channels:
+  - conda-forge
+  - bioconda
+  - jmeppley
+  - defaults
+dependencies:
+  - python>=3.6
+  - radian
+  - r-base
+  - r-gggenomes
+  - r-cowplot
+
+# install.packages("here")
+# install.packages("tidyverse")

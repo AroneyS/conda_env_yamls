@@ -1,0 +1,25 @@
+name: genetreetk-local
+channels:
+  - ace-internal
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=2.*
+  - genetreetk=0.0.15
+  - numpy>=1.8.0
+  - biolib=0.0.46
+  - dendropy>=4.0.0
+  - extern
+  - blast
+  - mafft
+  - muscle
+  - raxml=8.2.12
+  - fasttree=2.1.10
+  - seqmagick=0.6.1
+  - trimal=1.4.1
+  - comparem=0.0.25
+  - diamond=2.0.8
+  - tax2tree=1.0.0=py_0
+  - decorator=4.4.2=py_0
+  - scikit-bio=0.4.2=py27_0

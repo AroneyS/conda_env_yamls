@@ -1,0 +1,21 @@
+name: r-treedataverse
+channels:
+  - conda-forge
+  - bioconda
+  - nclibz
+  - defaults
+dependencies:
+  - python>=3.6
+  - radian
+  - r-base
+  - r-tidyverse
+  - r-here
+  - r-cowplot
+  - r-ape
+  - r-tidytree
+  - bioconductor-treeio 
+  - bioconductor-ggtree
+  - bioconductor-ggtreeExtra
+  - r-gggenes
+  - r-languageserver
+  - r-httpgd

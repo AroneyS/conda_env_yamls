@@ -1,0 +1,7 @@
+name: pacbio_tools
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - pbmarkdup
