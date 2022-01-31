@@ -1,0 +1,35 @@
+name: anvio
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.6
+  - sqlite >=3.31.1
+  - prodigal
+  - mcl
+  - muscle
+  - hmmer
+  - diamond
+  - blast
+  - megahit
+  - spades
+  - bowtie2
+  - tbb=2019.8
+  - bwa
+  - samtools=1.9
+  - centrifuge
+  - trimal
+  - iqtree
+  - trnascan-se
+  - r-base
+  - r-stringi
+  - r-tidyverse
+  - r-magrittr
+  - r-optparse
+  - bioconductor-qvalue
+  - fasttree
+  - fastani
+  - pip
+  - pip:
+    - anvio-7.1.tar.gz
