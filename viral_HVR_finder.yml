@@ -8,3 +8,4 @@ dependencies:
   - pandas=0.23.4
   - numpy
   - matplotlib
+  - samtools=1.9
