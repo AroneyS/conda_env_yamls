@@ -1,0 +1,11 @@
+name: ssg_lugia
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.5.2
+  - numpy=1.17.0
+  - biopython=1.70
+  - tqdm=4.19.5
+  - scikit-learn=0.19.1
