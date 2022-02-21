@@ -1,0 +1,8 @@
+name: ppanggolin
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3
+  - ppanggolin
