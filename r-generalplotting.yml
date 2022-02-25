@@ -1,0 +1,21 @@
+name: r-generalplotting
+channels:
+  - conda-forge
+  - bioconda
+  - nclibz
+  - defaults
+dependencies:
+  - python>=3.6
+  - radian
+  - r-base
+  - r-tidyverse
+  - r-here
+  - r-languageserver
+  - r-httpgd
+  - r-cowplot
+  - r-ggrepel
+  - r-ggbeeswarm
+  - r-gt
+  - r-seqinr
+  - r-jsonlite
+  - r-svglite
