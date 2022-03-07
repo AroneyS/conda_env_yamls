@@ -1,0 +1,9 @@
+name: python_tools
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python>=3.6
+  - gffutils
+  - biopython
