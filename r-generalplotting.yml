@@ -19,3 +19,4 @@ dependencies:
   - r-seqinr
   - r-jsonlite
   - r-svglite
+  - r-webshot
