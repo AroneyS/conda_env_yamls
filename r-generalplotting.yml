@@ -20,3 +20,4 @@ dependencies:
   - r-jsonlite
   - r-svglite
   - r-webshot
+  - r-ggalluvial
