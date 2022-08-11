@@ -21,3 +21,4 @@ dependencies:
   - r-svglite
   - r-webshot
   - r-ggalluvial
+  - r-gggenes
