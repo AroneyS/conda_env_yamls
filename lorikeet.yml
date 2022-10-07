@@ -5,4 +5,4 @@ channels:
   - defaults
 dependencies:
   - python>=3.6
-  - lorikeet-genome>=0.7.1
+  - lorikeet-genome>=0.7.3
