@@ -1,0 +1,12 @@
+name: umap
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python>=3.6
+  - pynndescent>=0.5
+  - umap-learn
+  - matplotlib
+  - seaborn
+  - pandas
