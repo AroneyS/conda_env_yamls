@@ -22,3 +22,5 @@ dependencies:
   - r-webshot
   - r-ggalluvial
   - r-gggenes
+  - r-ggh4x
+  - bioconductor-complexheatmap>=2.1
