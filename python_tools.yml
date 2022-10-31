@@ -10,3 +10,6 @@ dependencies:
   - biopython
   - gffutils
   - bcbiogff
+  - extern
+  - bird_tool_utils_python
+  - ruamel.yaml>=0.15.99
