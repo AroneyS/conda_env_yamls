@@ -13,7 +13,5 @@ dependencies:
   - samtools=1.3
   - perl
   - perl-xml-simple
-  - pip
-  - pip:
-    - ete3
-    - sklearn
+  - scikit-learn>=1.0
+  - ete3
