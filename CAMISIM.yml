@@ -4,14 +4,14 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.9
+  - python
   - numpy
   - biopython
   - biom-format
   - matplotlib
   - nanosim
-  - samtools=1.3
+  - samtools
   - perl
   - perl-xml-simple
-  - scikit-learn>=1.0
+  - scikit-learn==0.22.1
   - ete3
