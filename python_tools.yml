@@ -13,3 +13,5 @@ dependencies:
   - extern
   - bird_tool_utils_python
   - ruamel.yaml>=0.15.99
+  - snakemake
+  - mamba
