@@ -24,3 +24,5 @@ dependencies:
   - r-gggenes
   - r-ggh4x
   - bioconductor-complexheatmap>=2.1
+  - r-ape
+  - r-vegan
