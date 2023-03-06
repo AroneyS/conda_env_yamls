@@ -1,4 +1,4 @@
-name: svim
+name: wgsim
 channels:
   - conda-forge
   - bioconda
