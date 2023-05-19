@@ -2,7 +2,6 @@ name: lorikeet-local
 channels:
   - conda-forge
   - bioconda
-  - defaults
 dependencies:
   - python>=3.6
   - lorikeet-genome>=0.7.3

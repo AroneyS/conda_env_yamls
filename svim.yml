@@ -2,7 +2,6 @@ name: svim
 channels:
   - conda-forge
   - bioconda
-  - defaults
 dependencies:
   - python>=3.6
   - svim

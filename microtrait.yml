@@ -2,7 +2,6 @@ name: microtrait
 channels:
   - conda-forge
   - bioconda
-  - defaults
 dependencies:
   - hmmer>=3.1b2
   - prodigal>=2.6.3

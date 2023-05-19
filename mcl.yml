@@ -2,7 +2,6 @@ name: mcl
 channels:
   - conda-forge
   - bioconda
-  - defaults
 dependencies:
   - python>=3.6
   - mcl

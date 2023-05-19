@@ -2,7 +2,6 @@ name: kaiju
 channels:
   - bioconda
   - conda-forge
-  - defaults
 dependencies:
   - python>=3.6
   - kaiju

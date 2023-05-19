@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - bioconda
   - jmeppley
-  - defaults
 dependencies:
   - python>=3.6
   - radian

@@ -2,7 +2,6 @@ name: sequel_tools
 channels:
   - conda-forge
   - bioconda
-  - defaults
 dependencies:
   - python>=3.6
   - r-base
