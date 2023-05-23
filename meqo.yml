@@ -1,0 +1,19 @@
+name: mEQO
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.6
+  - radian
+  - r-base
+  - r-tidyverse
+  - r-here
+  - r-languageserver
+  - r-httpgd
+  - r-cowplot
+  - r-devtools
+  - r-ga
+  - r-doparallel
+  - r-data.table
+  - r-reshape2
+# devtools::install_github("Xiaoyu2425/mEQO")
