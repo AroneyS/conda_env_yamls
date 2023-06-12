@@ -5,3 +5,4 @@ channels:
 dependencies:
   - python>=3.6
   - gunc
+  - pandas=1.5.1
