@@ -1,0 +1,7 @@
+name: ncbi_datasets
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.6
+  - ncbi-datasets-cli=14.29.0
