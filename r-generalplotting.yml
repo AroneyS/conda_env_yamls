@@ -22,6 +22,9 @@ dependencies:
   - r-webshot
   - r-ggalluvial
   - r-gggenes
+  - r-ggextra
+  - r-ggpubr
+  - r-ggforce
   - r-ggh4x
   - bioconductor-complexheatmap>=2.1
   - r-ape
