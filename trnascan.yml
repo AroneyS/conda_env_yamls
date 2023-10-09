@@ -1,3 +1,4 @@
+name: trnascan
 channels:
   - conda-forge
   - bioconda
