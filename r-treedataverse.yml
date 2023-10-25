@@ -18,3 +18,4 @@ dependencies:
   - r-gggenes
   - r-languageserver
   - r-httpgd
+  - r-svglite
