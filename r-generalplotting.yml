@@ -15,11 +15,13 @@ dependencies:
   - r-cowplot
   - r-ggrepel
   - r-ggbeeswarm
-  - r-gt==0.6.0
+  - r-gt
+  - r-gtExtras
   - r-seqinr
   - r-jsonlite
   - r-svglite
   - r-webshot
+  - r-webshot2
   - r-ggalluvial
   - r-gggenes
   - r-ggextra
