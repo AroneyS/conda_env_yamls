@@ -9,6 +9,7 @@ dependencies:
   - r-base
   - r-tidyverse
   - r-here
+  - r-bookdown
   - r-cowplot
   - r-ape
   - r-tidytree
