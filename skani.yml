@@ -1,4 +1,4 @@
-name: skani
+name: skani-local
 channels:
   - conda-forge
   - bioconda
