@@ -8,3 +8,4 @@ dependencies:
   - samtools
   - bedtools>2.24
 # gem install dirseq
+# ln -sr $CONDA_PREFIX/bin/ruby $CONDA_PREFIX/share/rubygems/bin
