@@ -1,0 +1,10 @@
+name: dirseq
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.6
+  - ruby
+  - samtools
+  - bedtools>2.24
+# gem install dirseq
