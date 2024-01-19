@@ -31,3 +31,4 @@ dependencies:
   - bioconductor-complexheatmap>=2.1
   - r-ape
   - r-vegan
+  - r-ggvenndiagram
