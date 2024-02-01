@@ -20,3 +20,4 @@ dependencies:
   - r-languageserver
   - r-httpgd
   - r-svglite
+  - r-castor
