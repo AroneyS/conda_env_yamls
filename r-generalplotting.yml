@@ -32,3 +32,4 @@ dependencies:
   - r-ape
   - r-vegan
   - r-ggvenndiagram
+  - r-hrbrthemes
