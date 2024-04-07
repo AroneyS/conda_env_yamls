@@ -1,0 +1,9 @@
+name: resmico
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.8,<=3.10
+  - pip
+  - pip:
+    - resmico

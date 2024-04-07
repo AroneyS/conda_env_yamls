@@ -1,0 +1,10 @@
+name: gpustat
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.8,<=3.10
+  - pip
+  - pip:
+    - gpustat
+# command: gpustat -cp --watch
