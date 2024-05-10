@@ -3,8 +3,25 @@ channels:
   - conda-forge
   - bioconda
 dependencies:
-  - python>=3.8,<=3.10
+  - python=3.9
+  - ipython
+  - cmake>=3.13
+  - cython=0.29.30
+  - keras=2.8.0
+  - numpy=1.23.3
+  - pandas=1.4.2
+  - pathos=0.2.9
+  - pytables
+  - scikit-learn=1.1.1
+  - snakemake=5.31.1
+  - tensorflow=2.8.1
+  - tensorboard
+  - protobuf=3.20
+  - toolz=0.11.2
   - samtools
+  - pysam=0.19.1
+  - pytest=7.1.2
+  - pytest-console-scripts
   - pip
   - pip:
     - resmico
