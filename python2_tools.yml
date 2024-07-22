@@ -1,0 +1,7 @@
+name: python2_tools
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=2.7.*
+  - biopython
