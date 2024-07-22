@@ -33,3 +33,5 @@ dependencies:
   - r-vegan
   - r-ggvenndiagram
   - r-hrbrthemes
+  - r-ggbreak
+  - r-ggraph
