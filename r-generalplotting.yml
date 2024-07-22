@@ -35,3 +35,4 @@ dependencies:
   - r-hrbrthemes
   - r-ggbreak
   - r-ggraph
+  - r-khroma
