@@ -1,0 +1,10 @@
+name: swiftclient
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.6
+  - python-swiftclient
+  - python-keystoneclient
+# Download OpenStack RC file from Nectar dashboard
+# Run and enter password
