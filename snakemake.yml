@@ -8,3 +8,4 @@ dependencies:
   - snakemake-executor-plugin-cluster-generic=1.0.*
   - mamba=1.5.*
   - polars=1.0.*
+  - extern
