@@ -36,3 +36,4 @@ dependencies:
   - r-ggbreak
   - r-ggraph
   - r-khroma
+  - r-propr
